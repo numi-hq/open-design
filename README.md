@@ -1,4 +1,7 @@
+![numi-open-design](https://github.com/numi-hq/open-design/assets/2617315/7dc9c3cb-bd6f-4b28-9ce7-9b152bef8749)
+
 # NUMI Open Design
+
 
 Open source software doesn't get enough design love. 
 
@@ -9,6 +12,11 @@ Whatever the cause, one thing is for sure: OSS deserves more design. NUMI is in 
 For now, this is a pilot program that we're trying with a few friends in the OSS community. If the community values it and we can scale to meet the need, we will eagerly expand.
 
 Curious to learn more? [DM Agree, NUMI's cofounder](https://twitter.com/agreeahmed)
+
+## Recipients
+We're proud to have contributed logos to the following projects:
+- [blitz-js/superjson](https://github.com/blitz-js/superjson)
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz)
 
 ---
 ^ Fun fact: a few pivots ago, we got React Native working on iOS, Android, web, and Next.js -- even before Expo bundler supported non-native clients!
