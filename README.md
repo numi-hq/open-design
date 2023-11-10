@@ -15,9 +15,9 @@ Curious to learn more? [DM Agree, NUMI's cofounder](https://twitter.com/agreeahm
 
 ## Recipients
 We're proud to have contributed logos to the following projects:
-- [blitz-js/superjson]([https://github.com/blitz-js/superjson](https://github.com/blitz-js/superjson/commit/9bca77c28a94304545bf65762bd7218c6361fc01))
-- [learn-anything/learn-anything.xyz]([https://github.com/learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz/commit/41fdc1f71abde6c1ab48e6c1031c4ab3c2e23430))
-- [gustavoguichard/string-ts]([https://github.com/gustavoguichard/string-ts](https://github.com/gustavoguichard/string-ts/commit/c2b6344a7efc76e65334bbf1ba8b0acb8deb32c6))
+- [blitz-js/superjson](https://github.com/blitz-js/superjson/commit/9bca77c28a94304545bf65762bd7218c6361fc01)
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz/commit/41fdc1f71abde6c1ab48e6c1031c4ab3c2e23430)
+- [gustavoguichard/string-ts](https://github.com/gustavoguichard/string-ts/commit/c2b6344a7efc76e65334bbf1ba8b0acb8deb32c6)
 
 ---
 ^ Fun fact: a few pivots ago, we got React Native working on iOS, Android, web, and Next.js -- even before Expo bundler supported non-native clients!
